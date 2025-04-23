@@ -1,0 +1,5 @@
+change repository: git remote set-url origin git@github.com:your-username/new-repo.git
+steps to push : git add file.ext
+		git commit -m "name of commit "
+		git push
+
